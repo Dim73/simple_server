@@ -1,3 +1,4 @@
+'strict mode'
 let http = require('http')
 let _ = require('underscore')
 
