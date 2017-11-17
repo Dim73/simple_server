@@ -7,6 +7,5 @@ let server = http.createServer((req,res) => {
 })
 
 server.listen(3000, (...args) => {
-    console.log(_.head([1,2,3,4 ]))
     console.log('Server running!')
 })
